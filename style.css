@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	height: 100vh;
+	width: 100%;
+	background-image: url(https://www.stkconf.org/wp-content/uploads/2018/10/Web-Page-Background-Color.jpg);
+	background-position: center;
+	background-size: cover;
+	padding-left: 5%;
+	padding-right: 5%;
+	box-sizing: border-box;
+	position: relative;
+}
+
+.content p{
+	margin-top: 10%;
+	margin-left: 10%;
+	font-size: 50px;
+	color: #154c79;
+	font-family: Helvetica;
+
+}
+.navbar{
+	background-color: #063970;
+	font-size: 50px;
+
+}
